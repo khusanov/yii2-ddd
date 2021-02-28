@@ -1,2 +1,11 @@
 /vendor/
 /.idea/
+
+# PhpStorm cache
+.phpunit.result.cache
+
+# local phpunit config
+/phpunit.xml
+
+# Mac DS_Store Files
+.DS_Store
